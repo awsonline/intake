@@ -1,6 +1,12 @@
 {
   "name": "intake",
   "env": {
+    "ERROR_PAGE_URL": {
+      "required": true
+    },
+    "MAINTENANCE_PAGE_URL": {
+      "required": true
+    },
     "DEFAULT_FILE_STORAGE": {
       "required": true
     },
